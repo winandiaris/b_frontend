@@ -68,6 +68,14 @@ This section builds on the lessons learned in section one, showing you the diffe
 This section shifts the focus to graphic design with color psychology and color schemes. You'll learn how to use the font types, icons and various colors to create amazingly beautiful designs.
 
 ## The Psychology of Color
+![color1](https://user-images.githubusercontent.com/24581953/144837532-2664bcfc-4def-481f-85d2-3e6021edd123.jpg)
+![color2](https://user-images.githubusercontent.com/24581953/144837542-b7b407fc-ca94-4ea7-a50c-74cb5c768e21.jpg)
+![color3](https://user-images.githubusercontent.com/24581953/144837543-0d14bd9c-3121-496f-adf4-7bbb4e7984cf.jpg)
+![color4](https://user-images.githubusercontent.com/24581953/144837547-ec795bc1-d8a9-41b6-8d9e-80023b202ea4.jpg)
+![color5](https://user-images.githubusercontent.com/24581953/144837548-1d5904c1-20e6-439d-b5a3-340b0cf31e7b.jpg)
+![color6](https://user-images.githubusercontent.com/24581953/144837549-2bf19c4e-57df-43fb-bcb4-7391c2b250f5.jpg)
+
+
 
 ## Color Wheel & Color Schemes
 
