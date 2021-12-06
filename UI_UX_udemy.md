@@ -28,9 +28,31 @@ This section builds on the lessons learned in section one, showing you the diffe
 ![stagesWeb6](https://user-images.githubusercontent.com/24581953/144832150-48087c22-9a81-45e0-ad86-705d9e79400d.jpg)
 
 
-## Team Roles & Responsibilities
+## Designer Responsbilities ( working on a team )
+![responsibiliti1](https://user-images.githubusercontent.com/24581953/144833910-f6bf379e-2410-47d9-be50-a08b61828685.jpg)
+![responsibiliti2](https://user-images.githubusercontent.com/24581953/144833936-dabc0456-5549-43e1-ba23-b02677c062dc.jpg)
 
-## Project Management Frameworks
+## Roles and Descriptions  ( working on a team )
+![team1](https://user-images.githubusercontent.com/24581953/144834495-0fc55cd6-16f3-487b-a97e-4e2eadc80134.jpg)
+![team2](https://user-images.githubusercontent.com/24581953/144834513-a8a9f83e-f817-4414-a885-34b4282f1210.jpg)
+![team3](https://user-images.githubusercontent.com/24581953/144834524-981356d0-65d2-4787-bf3d-006a2fa3cad9.jpg)
+![team4](https://user-images.githubusercontent.com/24581953/144834536-b5f831c2-6137-4949-a218-00183049d469.jpg)
+![team5](https://user-images.githubusercontent.com/24581953/144834548-9f31a77b-56aa-4aad-8c19-195263b509a8.jpg)
+
+## Agile approach to roject Management
+![agile1](https://user-images.githubusercontent.com/24581953/144835077-e5c5c796-e0d2-4004-9360-22d54e84bb67.jpg)
+![agile2](https://user-images.githubusercontent.com/24581953/144835092-8fb4a5a9-1138-4aae-80eb-189e226625e0.jpg)
+![agile3](https://user-images.githubusercontent.com/24581953/144835122-ef755419-881a-4d7d-85bf-168fe16f2fc9.jpg)
+![agile4](https://user-images.githubusercontent.com/24581953/144835160-7fdfa71d-f3ca-4c74-be10-e1beae1ebf82.jpg)
+![agile5](https://user-images.githubusercontent.com/24581953/144835172-1f823d05-9740-4d16-8427-0861a8882658.jpg)
+![agile6](https://user-images.githubusercontent.com/24581953/144835184-6759ef71-d055-4783-9d4d-29169efcb7f9.jpg)
+
+## Scrum - Flexible Framework
+
+
+## Project Management Apps
+
+## XD Lesson - Intro
 
 
 
