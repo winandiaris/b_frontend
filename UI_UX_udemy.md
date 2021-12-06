@@ -59,7 +59,7 @@ This section builds on the lessons learned in section one, showing you the diffe
 ![trello2](https://user-images.githubusercontent.com/24581953/144836716-caac3039-bd05-407f-a10b-64a2c3e20622.jpg)
 ![trello3](https://user-images.githubusercontent.com/24581953/144836731-1893be2e-0541-4021-973f-db1de44eb801.jpg)
 
-## XD Lesson - Intro
+## XD Lesson 1 - Intro
 
 
 
@@ -95,7 +95,16 @@ This section shifts the focus to graphic design with color psychology and color 
 ![fonts8](https://user-images.githubusercontent.com/24581953/144844037-884a3b8c-20ed-4cea-b2ef-6b9e58cdccde.jpg)
 ![fonts9](https://user-images.githubusercontent.com/24581953/144844015-5df635d1-f02d-4bed-84c6-3307cc1fb123.jpg)
 
+## Working With Icons
+![icons1](https://user-images.githubusercontent.com/24581953/144844804-e0f95792-aa2c-4132-9941-d0192b94d531.jpg)
+![icons2](https://user-images.githubusercontent.com/24581953/144844808-1cf71136-b760-4778-b2cf-128fca55328f.jpg)
+![icons3](https://user-images.githubusercontent.com/24581953/144844813-a3a22348-4778-4411-86f0-0f4e2e393dac.jpg)
+![icons4](https://user-images.githubusercontent.com/24581953/144844826-8f7fd3d9-4f1c-4a95-a3c6-49c5cd5d019a.jpg)
 
+## XD Lesson 2 - Tools, Object Mannipulation and Components
+## XD Lesson 3 - Font, Styles and artboard settings
+## Graphic Design Software Tools
+## XD Lesson 3 - Icons and vector graphics
 
 # 4: UX DESIGN
 
