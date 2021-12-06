@@ -48,9 +48,16 @@ This section builds on the lessons learned in section one, showing you the diffe
 ![agile6](https://user-images.githubusercontent.com/24581953/144835184-6759ef71-d055-4783-9d4d-29169efcb7f9.jpg)
 
 ## Scrum - Flexible Framework
-
+![scrum1](https://user-images.githubusercontent.com/24581953/144836146-951e42a6-16da-4f76-9ea6-a1758c3964d7.jpg)
+![scrum2](https://user-images.githubusercontent.com/24581953/144836153-e6a1d948-89c0-460d-b34e-8d6f906235d1.jpg)
+![scrum3](https://user-images.githubusercontent.com/24581953/144836165-b5172b85-d7a4-4cd5-ab6a-2bb9568b215b.jpg)
+![scrum4](https://user-images.githubusercontent.com/24581953/144836177-8a61d258-ee8a-444d-9eb5-611e93a59cec.jpg)
 
 ## Project Management Apps
+
+![trello1](https://user-images.githubusercontent.com/24581953/144836710-631f0762-661e-4381-a919-e1c30b2a5ee8.jpg)
+![trello2](https://user-images.githubusercontent.com/24581953/144836716-caac3039-bd05-407f-a10b-64a2c3e20622.jpg)
+![trello3](https://user-images.githubusercontent.com/24581953/144836731-1893be2e-0541-4021-973f-db1de44eb801.jpg)
 
 ## XD Lesson - Intro
 
