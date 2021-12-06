@@ -110,7 +110,39 @@ This section shifts the focus to graphic design with color psychology and color 
 
 In this section, you’re going to learn exactly how the UX design process works. You’ll learn about the customer journey and sales funnels as well as behavioral psychology and influence triggers so you can create an amazing user experience.
 
+## What is UX
+![ux](https://user-images.githubusercontent.com/24581953/144935308-4ca3a6eb-b53a-4e19-acd9-97e73cfab140.jpg)
+
 ## UX Design Process
+![ux process1](https://user-images.githubusercontent.com/24581953/144936372-07920c46-7474-48df-a351-b48ded858fe9.jpg)
+![ux process2](https://user-images.githubusercontent.com/24581953/144936375-3058936b-fd34-4c0e-97ea-c4b388cd4425.jpg)
+
+## UX Analysis Process
+![ux analis1](https://user-images.githubusercontent.com/24581953/144936469-6274ef59-a876-4420-a730-d8a04d411b5a.jpg)
+![ux analis2](https://user-images.githubusercontent.com/24581953/144936473-a5e7cfce-dcd1-4ceb-bd0b-4d011cbbf66f.jpg)
+![ux analis3](https://user-images.githubusercontent.com/24581953/144936477-b0050ed7-6b54-4032-9aa7-ac08d753302e.jpg)
+![ux analis4](https://user-images.githubusercontent.com/24581953/144936480-452e3b27-9e48-43d7-8b87-fa00f918854d.jpg)
+![ux analis5](https://user-images.githubusercontent.com/24581953/144936485-49fa14a7-593c-4973-9aac-d9e2639b4ef4.jpg)
+![ux analis6](https://user-images.githubusercontent.com/24581953/144936486-d91458c0-eb7f-43b5-8e2c-9fb87b86edca.jpg)
+
+## Working with user profiles
+![ux profiles](https://user-images.githubusercontent.com/24581953/144936638-988ec95e-d9b8-4df6-bb8a-945da7a500e6.jpg)
+
+## Understanding User pain points
+![ux pain](https://user-images.githubusercontent.com/24581953/144936816-af718424-c3ed-42a9-ab96-5be30e56cb0b.jpg)
+
+## XD Lesson 5 - Class project: Competitive Analysis
+
+## Developing a persona - part 1
+![ux persona1](https://user-images.githubusercontent.com/24581953/144937243-4bbf6053-f683-4534-b7ee-8238eefd3412.jpg)
+
+## Developing a persona - part 2
+![ux persona2](https://user-images.githubusercontent.com/24581953/144937405-b9f02c40-980d-46b2-a77d-a3642627339a.jpg)
+
+## Customer Journey
+![ux journey1](https://user-images.githubusercontent.com/24581953/144937746-3962aa87-6a9f-4f6b-a959-a9a33fba5ee5.jpg)
+![ux journey2](https://user-images.githubusercontent.com/24581953/144937748-53921135-f1aa-4169-ad76-1c41ca07c9a7.jpg)
+![ux journey3](https://user-images.githubusercontent.com/24581953/144937752-73b5d8fe-c210-4f41-a8fb-9221cd856344.jpg)
 
 ## Customer Journey vs Sales Funnel
 
