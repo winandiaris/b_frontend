@@ -75,11 +75,25 @@ This section shifts the focus to graphic design with color psychology and color 
 ![color5](https://user-images.githubusercontent.com/24581953/144837548-1d5904c1-20e6-439d-b5a3-340b0cf31e7b.jpg)
 ![color6](https://user-images.githubusercontent.com/24581953/144837549-2bf19c4e-57df-43fb-bcb4-7391c2b250f5.jpg)
 
-
-
 ## Color Wheel & Color Schemes
+![wheel1](https://user-images.githubusercontent.com/24581953/144842668-afd3f42b-3771-488e-ada4-ac0c8bc252cd.jpg)
+![wheel2](https://user-images.githubusercontent.com/24581953/144842676-6deb5ef6-5e90-49c3-9c0c-756948d4a154.jpg)
+![wheel3](https://user-images.githubusercontent.com/24581953/144842681-799ff0d9-da03-4095-8985-05d2a72a75d6.jpg)
+![wheel4](https://user-images.githubusercontent.com/24581953/144842684-fd2c06a6-92be-416d-9ddf-21fbe9356626.jpg)
+![wheel5](https://user-images.githubusercontent.com/24581953/144842688-955f567e-bd72-4405-bd8c-b56031e47eca.jpg)
 
-## Working w/ Fonts & Icons
+
+## Working With Fonts
+
+![fonts1](https://user-images.githubusercontent.com/24581953/144844021-533a9921-7125-4280-8532-83ea3fdea623.jpg)
+![fonts2](https://user-images.githubusercontent.com/24581953/144844022-953e1743-6791-41a3-9636-af4952ebf1a4.jpg)
+![fonts3](https://user-images.githubusercontent.com/24581953/144844024-9faa7235-e830-4dd6-9c46-ee77811c3c4b.jpg)
+![fonts4](https://user-images.githubusercontent.com/24581953/144844027-e641c874-c81a-4892-a950-416a44b5c51a.jpg)
+![fonts5](https://user-images.githubusercontent.com/24581953/144844030-95625235-2757-4396-9fd7-d2af78f4e129.jpg)
+![fonts6](https://user-images.githubusercontent.com/24581953/144844032-10dbdcb1-d876-4e2d-9412-381a35402de6.jpg)
+![fonts7](https://user-images.githubusercontent.com/24581953/144844033-c274dd80-3138-4483-81b2-a045cc44c398.jpg)
+![fonts8](https://user-images.githubusercontent.com/24581953/144844037-884a3b8c-20ed-4cea-b2ef-6b9e58cdccde.jpg)
+![fonts9](https://user-images.githubusercontent.com/24581953/144844015-5df635d1-f02d-4bed-84c6-3307cc1fb123.jpg)
 
 
 
