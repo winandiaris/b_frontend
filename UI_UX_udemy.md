@@ -214,24 +214,39 @@ In this section, you’re going to learn exactly how the UX design process works
 ## XD Lesson 8 - Class Project: Crafting a Moodboards
 
 ## Sitemap & information architecture
+![ux sitemap1](https://user-images.githubusercontent.com/24581953/144948830-4922a58a-0511-4304-aa21-65580ff2c40f.jpg)
+![ux sitemap2](https://user-images.githubusercontent.com/24581953/144948836-e76e2074-aee2-4206-93cb-03dd25022dcf.jpg)
+
 
 ## XD Lesson 9 - Class Project: App Architecture
 
 ## Low and Hi Fidelity Wireframes
+![ux wireframes](https://user-images.githubusercontent.com/24581953/144949059-5657c7bf-ca31-49eb-882b-dc2237c9f172.jpg)
+
 
 ## XD Lesson 10 - Class Project: Login screen wireframe using material design
 
 ## Working with prototypes
+![ux prototypes1](https://user-images.githubusercontent.com/24581953/144949436-ba42792a-801e-413a-9e5a-ce31648fe012.jpg)
+![ux prototypes2](https://user-images.githubusercontent.com/24581953/144949451-9a46209c-3678-4a5b-b3c7-382997479300.jpg)
+![ux prototypes3](https://user-images.githubusercontent.com/24581953/144949455-ebe5149a-ba09-42ae-b2ec-beed21955d6d.jpg)
+![ux prototypes4](https://user-images.githubusercontent.com/24581953/144949460-ef90ee16-9a89-4d46-b295-04421499fedd.jpg)
+
 
 ## XD Lesson 11 - Class Project: Home screen wireframe, and Linking
 
 ## XD Lesson 12 - Class Project: Adding interaction to wireframes
 
 ## Testing and evaluating
+![ux testing1](https://user-images.githubusercontent.com/24581953/144949754-e3e72c46-edbf-4047-8b12-9e8905fde689.jpg)
+![ux testing2](https://user-images.githubusercontent.com/24581953/144949757-789b9e51-a11d-4ef2-814d-dc8eb8fb7990.jpg)
+![ux testing3](https://user-images.githubusercontent.com/24581953/144949761-86b40d6b-71fe-4408-8461-651079370c07.jpg)
 
 ## UX Deliverables
+![ux deliverable1](https://user-images.githubusercontent.com/24581953/144949910-607ffbc0-59ae-4f89-97e1-e16bba1cd0da.jpg)
 
 ## UX Design Conclusion
+![ux conclusion](https://user-images.githubusercontent.com/24581953/144950040-a392e868-dd68-4c68-84ee-d35f23491ec9.jpg)
 
 
 # 5: UI DESIGN
