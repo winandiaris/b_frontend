@@ -145,11 +145,63 @@ In this section, you’re going to learn exactly how the UX design process works
 ![ux journey3](https://user-images.githubusercontent.com/24581953/144937752-73b5d8fe-c210-4f41-a8fb-9221cd856344.jpg)
 
 ## Customer Journey vs Sales Funnel
+![ux journey vs funnel](https://user-images.githubusercontent.com/24581953/144939504-a8915574-3b8c-447d-bcc8-8ee52c0491d5.jpg)
+![ux journey vs funnel1](https://user-images.githubusercontent.com/24581953/144939509-67424d3e-87d1-4e63-8b2c-9030744829b6.jpg)
 
-## Principles of Influence
+## 3 Phases of a Sales Funnel
+![ux sales funnel](https://user-images.githubusercontent.com/24581953/144939713-db45eff1-1ad7-487d-838a-eec8b8d5906b.jpg)
+![ux sales funnel1](https://user-images.githubusercontent.com/24581953/144939718-8c6c8737-0965-429b-bb33-ac21595121b2.jpg)
 
+## 4 Stages of a Sales Funnel
+![ux sales funnel stages1](https://user-images.githubusercontent.com/24581953/144940174-5ace445b-07ef-4da0-97e3-8262a57cf8c9.jpg)
+![ux sales funnel stages2](https://user-images.githubusercontent.com/24581953/144940177-00a7e7be-90ef-4ce5-b9a8-b2810fd01f7a.jpg)
+![ux sales funnel stages3](https://user-images.githubusercontent.com/24581953/144940179-9c4fdd7b-5ffc-4b57-8afa-b66e2418450c.jpg)
 
+## Macro/Micro Conversion
+![ux macro-micro](https://user-images.githubusercontent.com/24581953/144940398-6fd9593e-7007-451b-a5e8-03d18f858260.jpg)
+![ux macro-micro1](https://user-images.githubusercontent.com/24581953/144940402-e6188be6-93b4-441c-8c5d-8e8718368415.jpg)
 
+## Stages of market sophistication
+![ux market stage1](https://user-images.githubusercontent.com/24581953/144940664-5e671718-503d-4f27-b955-9569e8379309.jpg)
+![ux market stage2](https://user-images.githubusercontent.com/24581953/144940668-9e63a25e-bcd7-4b25-8e6d-fc98e5e72b80.jpg)
+
+## Lead Generation Funnel
+![ux lead funnel](https://user-images.githubusercontent.com/24581953/144941038-1a4dc877-ff17-4fc5-8bb2-b027b33edb78.jpg)
+![ux lead funnel1](https://user-images.githubusercontent.com/24581953/144941043-a53ba894-5c16-4ed8-b954-58405b897f5b.jpg)
+![ux lead funnel2](https://user-images.githubusercontent.com/24581953/144941045-bdc8eaee-e31e-476d-bc23-9cd9e81934b8.jpg)
+
+## Digital product sales funnel
+![ux product funnel1](https://user-images.githubusercontent.com/24581953/144941585-eb979b9d-bcd1-4fcf-a80a-8b6a0a8a9df3.jpg)
+![ux product funnel2](https://user-images.githubusercontent.com/24581953/144941588-2688cf7c-fbd7-42c6-83df-bced4e883499.jpg)
+![ux product funnel3](https://user-images.githubusercontent.com/24581953/144941590-939b3fcb-25f9-42d5-a012-975a2e6a3b10.jpg)
+
+## 7 Principle of Influence
+![ux prinsip influence1](https://user-images.githubusercontent.com/24581953/144941824-4b169c8a-1797-4504-8607-8bd108e4d868.jpg)
+![ux prinsip influence2](https://user-images.githubusercontent.com/24581953/144941832-6a8ebf83-6506-4eca-8e15-82474460ea30.jpg)
+
+## Age based influence triggers
+![ux triggers1](https://user-images.githubusercontent.com/24581953/144942171-015e0b4b-9b19-48e6-a510-3b32e882feb2.jpg)
+![ux triggers2](https://user-images.githubusercontent.com/24581953/144942176-2f4e7bd2-4937-46e4-a0ff-32729bddf92d.jpg)
+![ux triggers3](https://user-images.githubusercontent.com/24581953/144942177-220ac71e-ac6b-4549-9804-13920de5998b.jpg)
+![ux triggers4](https://user-images.githubusercontent.com/24581953/144942178-ea2a9141-4511-431d-9a6a-7c25fa4a87f8.jpg)
+
+## Gender based influence triggers
+![ux gender](https://user-images.githubusercontent.com/24581953/144942514-392920e6-45b4-4afc-9c47-0bb5aa0deb60.jpg)
+![ux gender1](https://user-images.githubusercontent.com/24581953/144942520-d4db31e7-8f14-4770-9111-bad1a5f52e69.jpg)
+![ux gender2](https://user-images.githubusercontent.com/24581953/144942522-df9f4085-697c-4e8f-924d-bccd6060167d.jpg)
+
+## Interest based marketing
+![ux interest1](https://user-images.githubusercontent.com/24581953/144942902-e5e1a14e-2229-430c-99e6-193f0e18f698.jpg)
+![ux interest2](https://user-images.githubusercontent.com/24581953/144942910-9c4371c4-45dd-4874-b2f8-dd7195a955f7.jpg)
+
+## Understanding User Flow
+![ux user flow1](https://user-images.githubusercontent.com/24581953/144943273-04f828e7-8b4f-425f-ac84-bcfc00621c88.jpg)
+![ux user flow2](https://user-images.githubusercontent.com/24581953/144943279-951c2b87-cddd-42bf-9b9f-5cd9c50d7b25.jpg)
+![ux user flow3](https://user-images.githubusercontent.com/24581953/144943281-93672872-e7ff-4ddd-b6be-1e6a9c33a97c.jpg)
+![ux user flow4](https://user-images.githubusercontent.com/24581953/144943287-16ae2240-ac81-4398-a1c0-44225f476fa7.jpg)
+
+## XD Lesson 6 - Class Project: User flow your first UX derivelable
+## Working with storyboards 
 # 5: UI DESIGN
 
 In this section, you’re going to learn exactly how the UI design process works. You’ll learn about the different UI design types such as landing pages, websites, mobile applications and the various controls and components so you can create an amazingly beautiful user interface.
