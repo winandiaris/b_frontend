@@ -201,7 +201,39 @@ In this section, you’re going to learn exactly how the UX design process works
 ![ux user flow4](https://user-images.githubusercontent.com/24581953/144943287-16ae2240-ac81-4398-a1c0-44225f476fa7.jpg)
 
 ## XD Lesson 6 - Class Project: User flow your first UX derivelable
+
 ## Working with storyboards 
+![ux storyboards](https://user-images.githubusercontent.com/24581953/144945751-17d02aee-7143-49df-9cad-f790d0a34f29.jpg)
+
+## XD Lesson 7 - Class Project: Crafting a storyboard
+
+## Working With Moodboards
+![ux moodboards](https://user-images.githubusercontent.com/24581953/144946183-9430c416-3575-4471-ba84-d8d72e35beef.jpg)
+![ux moodboards1](https://user-images.githubusercontent.com/24581953/144946186-0d365e29-ef35-4072-a743-1785c931f048.jpg)
+
+## XD Lesson 8 - Class Project: Crafting a Moodboards
+
+## Sitemap & information architecture
+
+## XD Lesson 9 - Class Project: App Architecture
+
+## Low and Hi Fidelity Wireframes
+
+## XD Lesson 10 - Class Project: Login screen wireframe using material design
+
+## Working with prototypes
+
+## XD Lesson 11 - Class Project: Home screen wireframe, and Linking
+
+## XD Lesson 12 - Class Project: Adding interaction to wireframes
+
+## Testing and evaluating
+
+## UX Deliverables
+
+## UX Design Conclusion
+
+
 # 5: UI DESIGN
 
 In this section, you’re going to learn exactly how the UI design process works. You’ll learn about the different UI design types such as landing pages, websites, mobile applications and the various controls and components so you can create an amazingly beautiful user interface.
