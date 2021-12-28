@@ -9,6 +9,7 @@
 - React
   - Basic
     - [Node/NPM instalation ubuntu](https://www.geeksforgeeks.org/installation-of-node-js-on-linux/)
+    - [Setup node WSL2](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
   - [React - collection](https://github.com/winandiaris/b_other/blob/main/react-collection.md)
   - [HTML5/CSS/JS - collection](https://github.com/winandiaris/b_other/blob/main/html_css_js.md)
 
