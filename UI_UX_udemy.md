@@ -25,7 +25,7 @@ This foundational section gives you a full introduction to the basics of UX/UI a
 </details>
 
 
-2: INTRODUCTION TO THE WEB INDUSTRY
+## 2: INTRODUCTION TO THE WEB INDUSTRY
 This section builds on the lessons learned in section one, showing you the different phases of the web development industry, roles and responsibilities for each team member, and various project management frameworks such as the linear model, the agile approach and the scrum framework.
 
 <details>
