@@ -83,6 +83,7 @@ Agile approach to roject Management
 <summary>
 Scrum - Flexible Framework
 </summary>
+  
 ## Scrum - Flexible Framework
 ![scrum1](https://user-images.githubusercontent.com/24581953/144836146-951e42a6-16da-4f76-9ea6-a1758c3964d7.jpg)
 ![scrum2](https://user-images.githubusercontent.com/24581953/144836153-e6a1d948-89c0-460d-b34e-8d6f906235d1.jpg)
