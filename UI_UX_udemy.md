@@ -483,33 +483,60 @@ In this section, you’re going to learn exactly how the UX design process works
 
 In this section, you’re going to learn exactly how the UI design process works. You’ll learn about the different UI design types such as landing pages, websites, mobile applications and the various controls and components so you can create an amazingly beautiful user interface.
 
+<details>
+  <summary>UI Design Process </summary>
 ## UI Design Process
+</details>
 
+<details>
+  <summary>UI Design Types</summary>
+  
 ## UI Design Types
-
+</details>
+<details>
+  <summary>UI Components & Controls</summary>
+  
 ## UI Components & Controls
 </details>
 
-<details>
-<summary>6: OPTIMIZATION</summary>
 
+## 6: OPTIMIZATION
 In this section, you’re going to learn about optimization. Once you’ve designed a website or mobile app, you want to track the metrics so you can find areas to improve. You’ll also learn how to create a UX/UI usability report that will provide value to your potential clients.
 
+<details>
+  <summary></summary>
+</details>
 ## Feedback & Getting Referrals:
 
+<details>
+  <summary></summary>
+</details>
 ## Using Analytics/Heat Maps:
 
+<details>
+  <summary></summary>
+</details>
 ## Creating UX/UI Usability Reports
 </details>
 
-<details>
-<summary>7: STARTING A UX/UI CAREER</summary>
+
+## 7: STARTING A UX/UI CAREER
 
 In this section, you’re going to learn how you can land a job using your new skills. We’ll also walk through how you can start freelancing, personal branding, and how you can position yourself as the go-to expert in your field. Then finally, some of the best places to find jobs.
 
-## How To Start Freelancing
+<details>
+  <summary>How To Start Freelancing</summary>
 
+## How To Start Freelancing
+</details>
+
+<details>
+  <summary>Personal Branding</summary>
 ## Personal Branding
+</details>
+
+<details>
+  <summary>Best Places To Find Jobs</summary>
 
 ## Best Places To Find Jobs
 </details>
