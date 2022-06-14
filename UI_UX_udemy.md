@@ -67,8 +67,8 @@ This section builds on the lessons learned in section one, showing you the diffe
 ## XD Lesson 1 - Intro
 </details>
 
-
-# 3: FOUNDATIONS OF GRAPHIC DESIGN
+<details>
+  <summary>3: FOUNDATIONS OF GRAPHIC DESIGN</summary>
 
 This section shifts the focus to graphic design with color psychology and color schemes. You'll learn how to use the font types, icons and various colors to create amazingly beautiful designs.
 
@@ -111,7 +111,10 @@ This section shifts the focus to graphic design with color psychology and color 
 ## Graphic Design Software Tools
 ## XD Lesson 3 - Icons and vector graphics
 
-# 4: UX DESIGN
+</details>
+
+<details>
+<summary>4: UX DESIGN</summary>
 
 In this section, you’re going to learn exactly how the UX design process works. You’ll learn about the customer journey and sales funnels as well as behavioral psychology and influence triggers so you can create an amazing user experience.
 
@@ -136,7 +139,10 @@ In this section, you’re going to learn exactly how the UX design process works
 ## Understanding User pain points
 ![ux pain](https://user-images.githubusercontent.com/24581953/144936816-af718424-c3ed-42a9-ab96-5be30e56cb0b.jpg)
 
-## XD Lesson 5 - Class project: Competitive Analysis
+</details>
+  
+<details>
+<summary>XD Lesson 5 - Class project: Competitive Analysis</summary>
 
 ## Developing a persona - part 1
 ![ux persona1](https://user-images.githubusercontent.com/24581953/144937243-4bbf6053-f683-4534-b7ee-8238eefd3412.jpg)
@@ -204,6 +210,8 @@ In this section, you’re going to learn exactly how the UX design process works
 ![ux user flow2](https://user-images.githubusercontent.com/24581953/144943279-951c2b87-cddd-42bf-9b9f-5cd9c50d7b25.jpg)
 ![ux user flow3](https://user-images.githubusercontent.com/24581953/144943281-93672872-e7ff-4ddd-b6be-1e6a9c33a97c.jpg)
 ![ux user flow4](https://user-images.githubusercontent.com/24581953/144943287-16ae2240-ac81-4398-a1c0-44225f476fa7.jpg)
+</details>
+
 
 ## XD Lesson 6 - Class Project: User flow your first UX derivelable
 
@@ -252,8 +260,8 @@ In this section, you’re going to learn exactly how the UX design process works
 
 ## UX Design Conclusion
 ![ux conclusion](https://user-images.githubusercontent.com/24581953/144950040-a392e868-dd68-4c68-84ee-d35f23491ec9.jpg)
-
-
+</details>
+<details>
 # 5: UI DESIGN
 
 In this section, you’re going to learn exactly how the UI design process works. You’ll learn about the different UI design types such as landing pages, websites, mobile applications and the various controls and components so you can create an amazingly beautiful user interface.
@@ -263,10 +271,10 @@ In this section, you’re going to learn exactly how the UI design process works
 ## UI Design Types
 
 ## UI Components & Controls
+</details>
 
-
-
-# 6: OPTIMIZATION
+<details>
+<summary>6: OPTIMIZATION</summary>
 
 In this section, you’re going to learn about optimization. Once you’ve designed a website or mobile app, you want to track the metrics so you can find areas to improve. You’ll also learn how to create a UX/UI usability report that will provide value to your potential clients.
 
@@ -275,10 +283,10 @@ In this section, you’re going to learn about optimization. Once you’ve desig
 ## Using Analytics/Heat Maps:
 
 ## Creating UX/UI Usability Reports
+</details>
 
-
-
-# 7: STARTING A UX/UI CAREER
+<details>
+  <summary>7: STARTING A UX/UI CAREER</summary>
 
 In this section, you’re going to learn how you can land a job using your new skills. We’ll also walk through how you can start freelancing, personal branding, and how you can position yourself as the go-to expert in your field. Then finally, some of the best places to find jobs.
 
@@ -287,3 +295,4 @@ In this section, you’re going to learn how you can land a job using your new s
 ## Personal Branding
 
 ## Best Places To Find Jobs
+</details>
