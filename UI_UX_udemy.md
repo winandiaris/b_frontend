@@ -10,13 +10,19 @@ This foundational section gives you a full introduction to the basics of UX/UI a
 ![ux_ui2](https://user-images.githubusercontent.com/24581953/144826211-0cb0d3ad-70df-4fbf-814d-416b9453e02f.jpg)
 </details>
 
+<details>
+  <summary>UX/UI Designer Marketplace</summary>
 ## UX/UI Designer Marketplace
+</details>
+
+<details>
+  <summary>UX/UI Different Roles</summary>
 
 ## UX/UI Different Roles
 
 ![ui_roles1](https://user-images.githubusercontent.com/24581953/144825787-d84df656-6ae3-4b0c-b279-4bcf5198f24e.jpg)
 ![ui_roles2](https://user-images.githubusercontent.com/24581953/144825826-a753354d-6abb-4ef3-848c-45a18c2b5461.jpg)
-
+</details>
 
 <details>
 <summary>
