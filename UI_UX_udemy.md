@@ -1,7 +1,7 @@
-<details>
+
 ## 1: LEARN UX/UI COURSE INTRODUCTION
 This foundational section gives you a full introduction to the basics of UX/UI and what the current graphic design and UX/UI marketplace looks like.
-
+<details>
 <summary>UX vs UI<summary>
 ![ux_ui1](https://user-images.githubusercontent.com/24581953/144826193-b2ccc03b-59d1-4af8-bf8e-98b20e55b0fa.jpg)
 ![ux_ui2](https://user-images.githubusercontent.com/24581953/144826211-0cb0d3ad-70df-4fbf-814d-416b9453e02f.jpg)
@@ -13,7 +13,7 @@ This foundational section gives you a full introduction to the basics of UX/UI a
 
 ![ui_roles1](https://user-images.githubusercontent.com/24581953/144825787-d84df656-6ae3-4b0c-b279-4bcf5198f24e.jpg)
 ![ui_roles2](https://user-images.githubusercontent.com/24581953/144825826-a753354d-6abb-4ef3-848c-45a18c2b5461.jpg)
-</details>
+
 
 <details>
 <summary>
