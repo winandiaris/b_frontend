@@ -262,7 +262,7 @@ In this section, you’re going to learn exactly how the UX design process works
 ![ux conclusion](https://user-images.githubusercontent.com/24581953/144950040-a392e868-dd68-4c68-84ee-d35f23491ec9.jpg)
 </details>
 <details>
-# 5: UI DESIGN
+  <summary>5: UI DESIGN</summary>
 
 In this section, you’re going to learn exactly how the UI design process works. You’ll learn about the different UI design types such as landing pages, websites, mobile applications and the various controls and components so you can create an amazingly beautiful user interface.
 
@@ -286,7 +286,7 @@ In this section, you’re going to learn about optimization. Once you’ve desig
 </details>
 
 <details>
-  <summary>7: STARTING A UX/UI CAREER</summary>
+<summary>7: STARTING A UX/UI CAREER</summary>
 
 In this section, you’re going to learn how you can land a job using your new skills. We’ll also walk through how you can start freelancing, personal branding, and how you can position yourself as the go-to expert in your field. Then finally, some of the best places to find jobs.
 
