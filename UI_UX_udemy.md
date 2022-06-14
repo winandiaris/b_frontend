@@ -449,15 +449,10 @@ In this section, you’re going to learn exactly how the UX design process works
 
 ## XD Lesson 12 - Class Project: Adding interaction to wireframes
 </details>
-
-<details>
-  <summary></summary>
-</details
   
 <details>
   <summary>Testing and evaluating</summary>
-</details>
-  
+
 ## Testing and evaluating
 ![ux testing1](https://user-images.githubusercontent.com/24581953/144949754-e3e72c46-edbf-4047-8b12-9e8905fde689.jpg)
 ![ux testing2](https://user-images.githubusercontent.com/24581953/144949757-789b9e51-a11d-4ef2-814d-dc8eb8fb7990.jpg)
