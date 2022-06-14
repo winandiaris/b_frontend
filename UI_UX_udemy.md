@@ -3,7 +3,7 @@ This foundational section gives you a full introduction to the basics of UX/UI a
 
 <details>
   <summary>## 1: LEARN UX/UI COURSE INTRODUCTION</summary>
-This foundational section gives you a full introduction to the basics of UX/UI and what the current graphic design and UX/UI marketplace looks like.
+
 
 ## UX vs UI
 ![ux_ui1](https://user-images.githubusercontent.com/24581953/144826193-b2ccc03b-59d1-4af8-bf8e-98b20e55b0fa.jpg)
