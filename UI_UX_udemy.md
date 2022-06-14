@@ -113,6 +113,11 @@ XD Lesson 1 - Intro
 
 This section shifts the focus to graphic design with color psychology and color schemes. You'll learn how to use the font types, icons and various colors to create amazingly beautiful designs.
 
+<details>
+<summary>
+The Psychology of Color
+</summary> 
+ 
 ## The Psychology of Color
 ![color1](https://user-images.githubusercontent.com/24581953/144837532-2664bcfc-4def-481f-85d2-3e6021edd123.jpg)
 ![color2](https://user-images.githubusercontent.com/24581953/144837542-b7b407fc-ca94-4ea7-a50c-74cb5c768e21.jpg)
@@ -120,14 +125,25 @@ This section shifts the focus to graphic design with color psychology and color 
 ![color4](https://user-images.githubusercontent.com/24581953/144837547-ec795bc1-d8a9-41b6-8d9e-80023b202ea4.jpg)
 ![color5](https://user-images.githubusercontent.com/24581953/144837548-1d5904c1-20e6-439d-b5a3-340b0cf31e7b.jpg)
 ![color6](https://user-images.githubusercontent.com/24581953/144837549-2bf19c4e-57df-43fb-bcb4-7391c2b250f5.jpg)
+</details>
 
+<details>
+<summary>
+Color Wheel & Color Schemes
+</summary>
+ 
 ## Color Wheel & Color Schemes
 ![wheel1](https://user-images.githubusercontent.com/24581953/144842668-afd3f42b-3771-488e-ada4-ac0c8bc252cd.jpg)
 ![wheel2](https://user-images.githubusercontent.com/24581953/144842676-6deb5ef6-5e90-49c3-9c0c-756948d4a154.jpg)
 ![wheel3](https://user-images.githubusercontent.com/24581953/144842681-799ff0d9-da03-4095-8985-05d2a72a75d6.jpg)
 ![wheel4](https://user-images.githubusercontent.com/24581953/144842684-fd2c06a6-92be-416d-9ddf-21fbe9356626.jpg)
 ![wheel5](https://user-images.githubusercontent.com/24581953/144842688-955f567e-bd72-4405-bd8c-b56031e47eca.jpg)
+</details>
 
+<details>
+<summary>
+Working With Fonts
+</summary>
 
 ## Working With Fonts
 
@@ -140,13 +156,22 @@ This section shifts the focus to graphic design with color psychology and color 
 ![fonts7](https://user-images.githubusercontent.com/24581953/144844033-c274dd80-3138-4483-81b2-a045cc44c398.jpg)
 ![fonts8](https://user-images.githubusercontent.com/24581953/144844037-884a3b8c-20ed-4cea-b2ef-6b9e58cdccde.jpg)
 ![fonts9](https://user-images.githubusercontent.com/24581953/144844015-5df635d1-f02d-4bed-84c6-3307cc1fb123.jpg)
+</details>
 
+<details>
+<summary>
+Working With Icons
+</summary>
+
+ 
 ## Working With Icons
 ![icons1](https://user-images.githubusercontent.com/24581953/144844804-e0f95792-aa2c-4132-9941-d0192b94d531.jpg)
 ![icons2](https://user-images.githubusercontent.com/24581953/144844808-1cf71136-b760-4778-b2cf-128fca55328f.jpg)
 ![icons3](https://user-images.githubusercontent.com/24581953/144844813-a3a22348-4778-4411-86f0-0f4e2e393dac.jpg)
 ![icons4](https://user-images.githubusercontent.com/24581953/144844826-8f7fd3d9-4f1c-4a95-a3c6-49c5cd5d019a.jpg)
+
 </details>
+
 <details>
   <summary>XD Lesson 2 - Tools, Object Mannipulation and Components</summary>
 </details>
