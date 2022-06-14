@@ -2,7 +2,7 @@
 This foundational section gives you a full introduction to the basics of UX/UI and what the current graphic design and UX/UI marketplace looks like.
 
 <details>
-  <summary>## UX vs UI </summary>
+  <summary>UX vs UI </summary>
 
 
 ## UX vs UI
