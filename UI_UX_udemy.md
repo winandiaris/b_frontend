@@ -5,10 +5,10 @@
 </summary>
 This foundational section gives you a full introduction to the basics of UX/UI and what the current graphic design and UX/UI marketplace looks like.
 
-  <details>## UX vs UI</details>
+  <details>## UX vs UI
 ![ux_ui1](https://user-images.githubusercontent.com/24581953/144826193-b2ccc03b-59d1-4af8-bf8e-98b20e55b0fa.jpg)
 ![ux_ui2](https://user-images.githubusercontent.com/24581953/144826211-0cb0d3ad-70df-4fbf-814d-416b9453e02f.jpg)
-
+</details>
 
 ## UX/UI Designer Marketplace
 
