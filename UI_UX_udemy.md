@@ -24,11 +24,14 @@ This foundational section gives you a full introduction to the basics of UX/UI a
 ![ui_roles2](https://user-images.githubusercontent.com/24581953/144825826-a753354d-6abb-4ef3-848c-45a18c2b5461.jpg)
 </details>
 
+
+2: INTRODUCTION TO THE WEB INDUSTRY
+This section builds on the lessons learned in section one, showing you the different phases of the web development industry, roles and responsibilities for each team member, and various project management frameworks such as the linear model, the agile approach and the scrum framework.
+
 <details>
 <summary>
-2: INTRODUCTION TO THE WEB INDUSTRY
+The Phases of Web Development
 </summary>
-This section builds on the lessons learned in section one, showing you the different phases of the web development industry, roles and responsibilities for each team member, and various project management frameworks such as the linear model, the agile approach and the scrum framework.
 
 ## The Phases of Web Development
 ![stagesWeb1](https://user-images.githubusercontent.com/24581953/144832030-7950568b-e160-48c4-856c-b2a84e448f9a.jpg)
@@ -37,19 +40,36 @@ This section builds on the lessons learned in section one, showing you the diffe
 ![stagesWeb4](https://user-images.githubusercontent.com/24581953/144832107-67b1e03c-e2e7-4cb3-9cf9-65e82d8c5343.jpg)
 ![stagesWeb5](https://user-images.githubusercontent.com/24581953/144832135-637daa55-51d1-4000-8716-0bef82a95a62.jpg)
 ![stagesWeb6](https://user-images.githubusercontent.com/24581953/144832150-48087c22-9a81-45e0-ad86-705d9e79400d.jpg)
+</details>
 
+<details>
+<summary>
+Designer Responsbilities ( working on a team )
+</summary>
 
 ## Designer Responsbilities ( working on a team )
 ![responsibiliti1](https://user-images.githubusercontent.com/24581953/144833910-f6bf379e-2410-47d9-be50-a08b61828685.jpg)
 ![responsibiliti2](https://user-images.githubusercontent.com/24581953/144833936-dabc0456-5549-43e1-ba23-b02677c062dc.jpg)
+</details>
 
+<details>
+<summary>
+Roles and Descriptions  ( working on a team )
+</summary>
+  
 ## Roles and Descriptions  ( working on a team )
 ![team1](https://user-images.githubusercontent.com/24581953/144834495-0fc55cd6-16f3-487b-a97e-4e2eadc80134.jpg)
 ![team2](https://user-images.githubusercontent.com/24581953/144834513-a8a9f83e-f817-4414-a885-34b4282f1210.jpg)
 ![team3](https://user-images.githubusercontent.com/24581953/144834524-981356d0-65d2-4787-bf3d-006a2fa3cad9.jpg)
 ![team4](https://user-images.githubusercontent.com/24581953/144834536-b5f831c2-6137-4949-a218-00183049d469.jpg)
 ![team5](https://user-images.githubusercontent.com/24581953/144834548-9f31a77b-56aa-4aad-8c19-195263b509a8.jpg)
+</details>
 
+<details>
+<summary>
+Agile approach to roject Management
+</summary>
+ 
 ## Agile approach to roject Management
 ![agile1](https://user-images.githubusercontent.com/24581953/144835077-e5c5c796-e0d2-4004-9360-22d54e84bb67.jpg)
 ![agile2](https://user-images.githubusercontent.com/24581953/144835092-8fb4a5a9-1138-4aae-80eb-189e226625e0.jpg)
@@ -57,26 +77,38 @@ This section builds on the lessons learned in section one, showing you the diffe
 ![agile4](https://user-images.githubusercontent.com/24581953/144835160-7fdfa71d-f3ca-4c74-be10-e1beae1ebf82.jpg)
 ![agile5](https://user-images.githubusercontent.com/24581953/144835172-1f823d05-9740-4d16-8427-0861a8882658.jpg)
 ![agile6](https://user-images.githubusercontent.com/24581953/144835184-6759ef71-d055-4783-9d4d-29169efcb7f9.jpg)
+ </details>
 
+<details>
+<summary>
+Scrum - Flexible Framework
+</summary>
 ## Scrum - Flexible Framework
 ![scrum1](https://user-images.githubusercontent.com/24581953/144836146-951e42a6-16da-4f76-9ea6-a1758c3964d7.jpg)
 ![scrum2](https://user-images.githubusercontent.com/24581953/144836153-e6a1d948-89c0-460d-b34e-8d6f906235d1.jpg)
 ![scrum3](https://user-images.githubusercontent.com/24581953/144836165-b5172b85-d7a4-4cd5-ab6a-2bb9568b215b.jpg)
 ![scrum4](https://user-images.githubusercontent.com/24581953/144836177-8a61d258-ee8a-444d-9eb5-611e93a59cec.jpg)
+</details>
 
+<details>
+<summary>
+Project Management Apps
+</summary>
 ## Project Management Apps
 
 ![trello1](https://user-images.githubusercontent.com/24581953/144836710-631f0762-661e-4381-a919-e1c30b2a5ee8.jpg)
 ![trello2](https://user-images.githubusercontent.com/24581953/144836716-caac3039-bd05-407f-a10b-64a2c3e20622.jpg)
 ![trello3](https://user-images.githubusercontent.com/24581953/144836731-1893be2e-0541-4021-973f-db1de44eb801.jpg)
-
-</details>
-<details>
-  <summary>XD Lesson 1 - Intro</summary>
 </details>
 
 <details>
-  <summary>3: FOUNDATIONS OF GRAPHIC DESIGN</summary>
+<summary>
+XD Lesson 1 - Intro
+</summary>
+## XD Lesson 1 - Intro
+ </details>
+ 
+## 3: FOUNDATIONS OF GRAPHIC DESIGN
 
 This section shifts the focus to graphic design with color psychology and color schemes. You'll learn how to use the font types, icons and various colors to create amazingly beautiful designs.
 
