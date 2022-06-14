@@ -1,3 +1,5 @@
+## 1: LEARN UX/UI COURSE INTRODUCTION
+This foundational section gives you a full introduction to the basics of UX/UI and what the current graphic design and UX/UI marketplace looks like.
 <details>
 ## 1: LEARN UX/UI COURSE INTRODUCTION
 This foundational section gives you a full introduction to the basics of UX/UI and what the current graphic design and UX/UI marketplace looks like.
