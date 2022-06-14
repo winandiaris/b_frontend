@@ -190,21 +190,16 @@ Working With Icons
 
 In this section, you’re going to learn exactly how the UX design process works. You’ll learn about the customer journey and sales funnels as well as behavioral psychology and influence triggers so you can create an amazing user experience.
 
-<details>
-<summary></summary>
-</details
 
 <details>
 <summary>What is UX</summary>
 
-  
 ## What is UX
 ![ux](https://user-images.githubusercontent.com/24581953/144935308-4ca3a6eb-b53a-4e19-acd9-97e73cfab140.jpg)
 </details>
 
 <details>
 <summary>UX Design Process</summary>
-
 
 ## UX Design Process
 ![ux process1](https://user-images.githubusercontent.com/24581953/144936372-07920c46-7474-48df-a351-b48ded858fe9.jpg)
@@ -213,7 +208,6 @@ In this section, you’re going to learn exactly how the UX design process works
   
 <details>
 <summary>UX Analysis Process</summary>
-
 
 ## UX Analysis Process
 ![ux analis1](https://user-images.githubusercontent.com/24581953/144936469-6274ef59-a876-4420-a730-d8a04d411b5a.jpg)
