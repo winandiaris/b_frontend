@@ -1,7 +1,7 @@
 
 <details>
 <summary>
-# 1: LEARN UX/UI COURSE INTRODUCTION
+1: LEARN UX/UI COURSE INTRODUCTION
 </summary>
 This foundational section gives you a full introduction to the basics of UX/UI and what the current graphic design and UX/UI marketplace looks like.
 
