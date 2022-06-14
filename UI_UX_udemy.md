@@ -18,8 +18,10 @@ This foundational section gives you a full introduction to the basics of UX/UI a
 ![ui_roles2](https://user-images.githubusercontent.com/24581953/144825826-a753354d-6abb-4ef3-848c-45a18c2b5461.jpg)
 </details>
 
-# 2: INTRODUCTION TO THE WEB INDUSTRY
-
+<details>
+<summary>
+2: INTRODUCTION TO THE WEB INDUSTRY
+</summary>
 This section builds on the lessons learned in section one, showing you the different phases of the web development industry, roles and responsibilities for each team member, and various project management frameworks such as the linear model, the agile approach and the scrum framework.
 
 ## The Phases of Web Development
@@ -63,7 +65,7 @@ This section builds on the lessons learned in section one, showing you the diffe
 ![trello3](https://user-images.githubusercontent.com/24581953/144836731-1893be2e-0541-4021-973f-db1de44eb801.jpg)
 
 ## XD Lesson 1 - Intro
-
+</details>
 
 
 # 3: FOUNDATIONS OF GRAPHIC DESIGN
