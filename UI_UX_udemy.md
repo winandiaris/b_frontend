@@ -5,7 +5,7 @@
 </summary>
 This foundational section gives you a full introduction to the basics of UX/UI and what the current graphic design and UX/UI marketplace looks like.
 
-## UX vs UI
+  <details>## UX vs UI</details>
 ![ux_ui1](https://user-images.githubusercontent.com/24581953/144826193-b2ccc03b-59d1-4af8-bf8e-98b20e55b0fa.jpg)
 ![ux_ui2](https://user-images.githubusercontent.com/24581953/144826211-0cb0d3ad-70df-4fbf-814d-416b9453e02f.jpg)
 
@@ -108,12 +108,18 @@ This section shifts the focus to graphic design with color psychology and color 
 ![icons3](https://user-images.githubusercontent.com/24581953/144844813-a3a22348-4778-4411-86f0-0f4e2e393dac.jpg)
 ![icons4](https://user-images.githubusercontent.com/24581953/144844826-8f7fd3d9-4f1c-4a95-a3c6-49c5cd5d019a.jpg)
 </details>
-## XD Lesson 2 - Tools, Object Mannipulation and Components
-## XD Lesson 3 - Font, Styles and artboard settings
-## Graphic Design Software Tools
-## XD Lesson 3 - Icons and vector graphics
-
-
+<details>
+  <summary>XD Lesson 2 - Tools, Object Mannipulation and Components</summary>
+</details>
+<details>
+  <summary>XD Lesson 3 - Font, Styles and artboard settings</summary>
+</details>
+<details>
+  <summary>Graphic Design Software Tools</summary>
+</details>
+<details>
+  <summary>XD Lesson 3 - Icons and vector graphics</summary>
+</details>
 
 <details>
 <summary>4: UX DESIGN</summary>
@@ -214,8 +220,9 @@ In this section, you’re going to learn exactly how the UX design process works
 ![ux user flow4](https://user-images.githubusercontent.com/24581953/144943287-16ae2240-ac81-4398-a1c0-44225f476fa7.jpg)
 </details>
 
-
-## XD Lesson 6 - Class Project: User flow your first UX derivelable
+<details>
+  <summary>XD Lesson 6 - Class Project: User flow your first UX derivelable</summary>
+</details>
 
 ## Working with storyboards 
 ![ux storyboards](https://user-images.githubusercontent.com/24581953/144945751-17d02aee-7143-49df-9cad-f790d0a34f29.jpg)
