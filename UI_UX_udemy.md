@@ -480,13 +480,29 @@ In this section, you’re going to learn exactly how the UI design process works
 
 <details>
   <summary>UI Design Overview </summary>
+  
 ## UI Design Overview
+![61_ui design overview](https://user-images.githubusercontent.com/24581953/173804539-7c78a76c-5987-498f-b640-d1460627be5c.jpg)
+![61_ui design overview 2](https://user-images.githubusercontent.com/24581953/173804635-3341a564-b9bd-489d-8414-e82da7a96dcd.jpg)
+
 </details>
+
 
 <details>
   <summary>Types of Interfaces</summary>
   
 ## Types of Interfaces
+![62_types of interface](https://user-images.githubusercontent.com/24581953/173804784-95e7841e-bf9f-4ef3-a5c6-fa6a544bab79.jpg)
+![62_types of interface 2](https://user-images.githubusercontent.com/24581953/173804978-f000ef28-db1e-4695-836e-54afebe4dd23.jpg)
+![62_types of interface 3](https://user-images.githubusercontent.com/24581953/173805062-0b3bd590-1b2b-43bb-a9f9-f2f7b5622b8b.jpg)
+![62_types of interface 4](https://user-images.githubusercontent.com/24581953/173805072-43e3e46e-e60e-4a12-a178-392846a086aa.jpg)
+![62_types of interface 5](https://user-images.githubusercontent.com/24581953/173805076-fa9dd66f-b03b-4ca2-a1ad-ecf26ea0d22f.jpg)
+![62_types of interface 6](https://user-images.githubusercontent.com/24581953/173805081-53460441-1424-40dc-a2df-7b0e8953af48.jpg)
+![62_types of interface 7](https://user-images.githubusercontent.com/24581953/173805084-d56f9af4-bff4-455f-820d-11c07c379034.jpg)
+![62_types of interface 8](https://user-images.githubusercontent.com/24581953/173805086-7609f64d-589d-43a8-8b12-685ef224131a.jpg)
+![62_types of interface 9](https://user-images.githubusercontent.com/24581953/173805089-5fb731f4-4577-4409-bbd5-777fa2f27e37.jpg)
+
+
 </details>
 
 <details>
