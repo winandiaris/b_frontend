@@ -621,10 +621,6 @@ In this section, you’re going to learn exactly how the UI design process works
 ## Microinteractions Overview
 </details>
 
-
-## Adobe XD Lesson - Desktop and Mobile: UI Kit
-</details>
-
 <details>
   <summary>Adobe XD lesson - Microinteractions</summary>
   
