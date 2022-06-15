@@ -474,7 +474,7 @@ In this section, you’re going to learn exactly how the UX design process works
 </details>
 
 
-##5: UI DESIGN
+## 5: UI DESIGN
 
 In this section, you’re going to learn exactly how the UI design process works. You’ll learn about the different UI design types such as landing pages, websites, mobile applications and the various controls and components so you can create an amazingly beautiful user interface.
 
