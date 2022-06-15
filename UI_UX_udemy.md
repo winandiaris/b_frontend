@@ -499,18 +499,20 @@ In this section, you’re going to learn exactly how the UI design process works
 In this section, you’re going to learn about optimization. Once you’ve designed a website or mobile app, you want to track the metrics so you can find areas to improve. You’ll also learn how to create a UX/UI usability report that will provide value to your potential clients.
 
 <details>
-  <summary></summary>
-</details>
+  <summary>Feedback & Getting Referrals:</summary>
+
 ## Feedback & Getting Referrals:
+</details>
 
 <details>
-  <summary></summary>
-</details>
+  <summary>Using Analytics/Heat Maps:</summary>
+
 ## Using Analytics/Heat Maps:
+  </details>
 
 <details>
-  <summary></summary>
-</details>
+  <summary>Creating UX/UI Usability Reports</summary>
+
 ## Creating UX/UI Usability Reports
 </details>
 
@@ -527,6 +529,7 @@ In this section, you’re going to learn how you can land a job using your new s
 
 <details>
   <summary>Personal Branding</summary>
+  
 ## Personal Branding
 </details>
 
