@@ -509,6 +509,15 @@ In this section, you’re going to learn exactly how the UI design process works
   <summary>Landing Pages Overviews</summary>
   
 ## Landing Pages Overview
+![63 landing page overview](https://user-images.githubusercontent.com/24581953/173812635-a90b5b35-2b78-4d1b-9138-3a018b96f98c.jpg)
+![63 landing page overview2](https://user-images.githubusercontent.com/24581953/173812643-5292ce72-8207-434c-8932-fd1282b1ae12.jpg)
+![63 landing page overview3](https://user-images.githubusercontent.com/24581953/173812649-799601e1-f15f-4fc9-b874-629fcd10e113.jpg)
+![63 landing page overview4](https://user-images.githubusercontent.com/24581953/173812651-e411d0c2-e5ab-4cfb-a202-bb92e5915c30.jpg)
+![63 landing page overview5](https://user-images.githubusercontent.com/24581953/173812656-bd4e5208-d8e9-4aee-acff-24601cdcbc43.jpg)
+![63 landing page overview6](https://user-images.githubusercontent.com/24581953/173812660-2100e928-1f3c-4b4c-8d78-e42ef6e9248a.jpg)
+![63 landing page overview7](https://user-images.githubusercontent.com/24581953/173812664-8435525a-7eb7-465e-8feb-754943486b04.jpg)
+
+  
 </details>
 
 <details>
