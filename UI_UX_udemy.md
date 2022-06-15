@@ -536,24 +536,51 @@ In this section, you’re going to learn exactly how the UI design process works
   <summary>UI Controls</summary>
   
 ## UI Controls
+![66 ui controls](https://user-images.githubusercontent.com/24581953/173813976-1a16cadd-fcaa-4632-8d93-73af1c70309e.jpg)
+![66 ui controls2](https://user-images.githubusercontent.com/24581953/173813987-bd918335-d30b-4664-a7ff-5f66d805d3d6.jpg)
+![66 ui controls3](https://user-images.githubusercontent.com/24581953/173813989-f6d4009d-d5ea-4e58-904b-44da196c89cb.jpg)
+![66 ui controls4](https://user-images.githubusercontent.com/24581953/173813992-ad24bbc2-48a8-4ffe-8d99-102e35131f89.jpg)
+![66 ui controls5](https://user-images.githubusercontent.com/24581953/173813994-d09c1eee-96e7-45a8-a9b9-8fb1a4575c3c.jpg)
+![66 ui controls6](https://user-images.githubusercontent.com/24581953/173813999-faca94ad-8319-4472-b20d-a713d02edad1.jpg)
+![66 ui controls7](https://user-images.githubusercontent.com/24581953/173814002-8dac38fd-c81d-423c-ac94-75d34333d9ca.jpg)
+![66 ui controls8](https://user-images.githubusercontent.com/24581953/173814005-3cf97e9f-0488-45a6-8dd3-8755108546dc.jpg)
+![66 ui controls9](https://user-images.githubusercontent.com/24581953/173814008-9a15182d-b873-4dc5-ae7e-df423197ef30.jpg)
+
+  
 </details>
 
 <details>
   <summary>Navigational Components</summary>
   
 ## Navigational Components
-</details>
-
-<details>
-  <summary>Quiz 6: Types of UI's Quiz</summary>
   
-## Quiz 6: Types of UI's Quiz
+![67 navigational component](https://user-images.githubusercontent.com/24581953/173815776-0ce0fd1e-ec54-4b31-a734-bcafd32a8011.jpg)
+![67 navigational component2](https://user-images.githubusercontent.com/24581953/173815784-6e1321c9-b640-4284-8247-14ee3d72b756.jpg)
+![67 navigational component3](https://user-images.githubusercontent.com/24581953/173815787-a8c18e0f-8768-4143-8a38-c0fa0610c4b6.jpg)
+![67 navigational component5](https://user-images.githubusercontent.com/24581953/173815791-49f5873e-b574-437b-bcbe-2cf79a796001.jpg)
+![67 navigational component6](https://user-images.githubusercontent.com/24581953/173815793-7e150ce4-8224-4639-a1c2-9344d990fe90.jpg)
+![67 navigational component7](https://user-images.githubusercontent.com/24581953/173815797-8912478c-293e-4fe5-ada4-4c9155760a80.jpg)
+![67 navigational component8](https://user-images.githubusercontent.com/24581953/173815801-d4134561-aea8-472d-bf3f-d409472f223c.jpg)
+![67 navigational component9](https://user-images.githubusercontent.com/24581953/173815807-8f43504a-f905-466a-b7e8-707203ddf2b3.jpg)
+![67 navigational component10](https://user-images.githubusercontent.com/24581953/173815812-ea96583c-cb05-4da3-b12b-bbc091042566.jpg)
+![67 navigational component11](https://user-images.githubusercontent.com/24581953/173815815-81f9099e-ad40-4fc4-82e6-ad68bc23c988.jpg)
+![67 navigational component12](https://user-images.githubusercontent.com/24581953/173815817-321c7454-2520-4e5b-8fc9-ee2961a88fb2.jpg)
+![67 navigational component13](https://user-images.githubusercontent.com/24581953/173815822-1fb41ce7-a6a9-48b6-9d10-3cc4248e78d8.jpg)
+![67 navigational component14](https://user-images.githubusercontent.com/24581953/173815826-08902b48-98a5-4e94-8362-c1acf0dd4d97.jpg)
+![67 navigational component15](https://user-images.githubusercontent.com/24581953/173815828-efa6391b-c248-4f6b-a7ba-4582853657bf.jpg)
+![67 navigational component16](https://user-images.githubusercontent.com/24581953/173815835-75cb96e6-ad4d-4c61-a7cf-61fddb6b1546.jpg)
+![67 navigational component17](https://user-images.githubusercontent.com/24581953/173815843-549a422c-8cdd-47af-9ca5-07191d508ce0.jpg)
+![67 navigational component18](https://user-images.githubusercontent.com/24581953/173815849-d62bf714-1a82-4521-9661-09ccd58b8034.jpg)
+![67 navigational component19](https://user-images.githubusercontent.com/24581953/173815853-7b30c8a7-e863-4f9e-bc81-a517fe3f09d7.jpg)
+
 </details>
 
 <details>
   <summary>Header Design Overview</summary>
   
 ## Header Design Overview
+  
+  
 </details>
 
 <details>
