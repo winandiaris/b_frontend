@@ -630,6 +630,7 @@ In this section, you’re going to learn exactly how the UI design process works
   
 ## Adobe XD lesson - Microinteractions
 </details>
+
 ## 6: OPTIMIZATION
 In this section, you’re going to learn about optimization. Once you’ve designed a website or mobile app, you want to track the metrics so you can find areas to improve. You’ll also learn how to create a UX/UI usability report that will provide value to your potential clients.
 
