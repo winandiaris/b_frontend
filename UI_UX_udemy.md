@@ -580,6 +580,12 @@ In this section, you’re going to learn exactly how the UI design process works
   
 ## Header Design Overview
   
+![68 Header Design overview](https://user-images.githubusercontent.com/24581953/173817633-a6f7e152-b91e-4b80-a6c0-56cc72937435.jpg)
+![68 Header Design overview2](https://user-images.githubusercontent.com/24581953/173817641-1ec627e4-15ae-4957-b68c-0de45b8789ab.jpg)
+![68 Header Design overview3](https://user-images.githubusercontent.com/24581953/173817645-4758f2f8-23d4-49b6-a299-f1724bd49e49.jpg)
+![68 Header Design overview4](https://user-images.githubusercontent.com/24581953/173817647-d5ece7c9-34fc-4f4b-a5e8-14c91efa3dd8.jpg)
+![68 Header Design overview5](https://user-images.githubusercontent.com/24581953/173817648-f2d54953-4fa9-4af1-a704-05d65e1886ca.jpg)
+
   
 </details>
 
@@ -611,12 +617,17 @@ In this section, you’re going to learn exactly how the UI design process works
   <summary>Mobile & Desktop Footer Design Overview</summary>
   
 ## Mobile & Desktop Footer Design Overview
+![73 Mobile desktop footer design](https://user-images.githubusercontent.com/24581953/173818597-474f5c94-7d02-4084-9c01-d2280a0ad3a2.jpg)
+![73 Mobile desktop footer design2](https://user-images.githubusercontent.com/24581953/173818603-067c2ec1-c0ec-48ee-9cd0-d80aa60b48f5.jpg)
+![73 Mobile desktop footer design3](https://user-images.githubusercontent.com/24581953/173818605-2af033e9-d40a-4d45-ad9f-79dd032dd209.jpg)
+  
 </details>
 
 <details>
   <summary>MXD Lesson - Mobile & Desktop: Footer Design</summary>
   
 ## XD Lesson - Mobile & Desktop: Footer Design
+
 </details>
 
 <details>
@@ -641,6 +652,9 @@ In this section, you’re going to learn exactly how the UI design process works
   <summary>Mobile & Desktop Filter Search Bar Design Overview</summary>
   
 ## Mobile & Desktop Filter Search Bar Design Overview
+![78 filter search bar](https://user-images.githubusercontent.com/24581953/173819448-6e29a2fe-7645-47fc-add6-4863764aacc2.jpg)
+![78 filter search bar2](https://user-images.githubusercontent.com/24581953/173819458-8a75a588-44dd-4785-8962-85bd9d08238b.jpg)
+  
 </details>
 
 <details>
@@ -648,6 +662,7 @@ In this section, you’re going to learn exactly how the UI design process works
   
 ## MAdobe XD Lesson - Mobile & Desktop: Filter Design
 </details>
+
 
 <details>
   <summary>Adobe XD Lesson - Mobile & Desktop: Search Design</summary>
