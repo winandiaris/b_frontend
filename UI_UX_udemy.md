@@ -479,22 +479,157 @@ In this section, you’re going to learn exactly how the UX design process works
 In this section, you’re going to learn exactly how the UI design process works. You’ll learn about the different UI design types such as landing pages, websites, mobile applications and the various controls and components so you can create an amazingly beautiful user interface.
 
 <details>
-  <summary>UI Design Process </summary>
-## UI Design Process
+  <summary>UI Design Overview </summary>
+## UI Design Overview
 </details>
 
 <details>
-  <summary>UI Design Types</summary>
+  <summary>Types of Interfaces</summary>
   
-## UI Design Types
+## Types of Interfaces
 </details>
+
 <details>
-  <summary>UI Components & Controls</summary>
+  <summary>Landing Pages Overviews</summary>
   
-## UI Components & Controls
+## Landing Pages Overview
+</details>
+
+<details>
+  <summary>XD Lesson - Using Grids in XD</summary>
+  
+## XD Lesson - Using Grids in XD
+</details>
+
+<details>
+  <summary>XD Lesson - Single Card design</summary>
+  
+## XD Lesson - Single Card design
+</details>
+
+<details>
+  <summary>UI Controls</summary>
+  
+## UI Controls
+</details>
+
+<details>
+  <summary>Navigational Components</summary>
+  
+## Navigational Components
+</details>
+
+<details>
+  <summary>Quiz 6: Types of UI's Quiz</summary>
+  
+## Quiz 6: Types of UI's Quiz
+</details>
+
+<details>
+  <summary>Header Design Overview</summary>
+  
+## Header Design Overview
+</details>
+
+<details>
+  <summary>XD Lesson - Mobile & Desktop: Header Design</summary>
+  
+## XD Lesson - Mobile & Desktop: Header Design
+</details>
+
+<details>
+  <summary>XD Lesson - Mobile & Desktop: Dropdown Design</summary>
+  
+## XD Lesson - Mobile & Desktop: Dropdown Design
+</details>
+
+<details>
+  <summary>XCommon Layouts Overview</summary>
+  
+## Common Layouts Overview
+</details>
+
+<details>
+  <summary>XD Lesson - Common Layouts</summary>
+  
+## XD Lesson - Common Layouts
+</details>
+
+<details>
+  <summary>Mobile & Desktop Footer Design Overview</summary>
+  
+## Mobile & Desktop Footer Design Overview
+</details>
+
+<details>
+  <summary>MXD Lesson - Mobile & Desktop: Footer Design</summary>
+  
+## XD Lesson - Mobile & Desktop: Footer Design
+</details>
+
+<details>
+  <summary>Mobile & Desktop Button Design Overview</summary>
+  
+## Mobile & Desktop Button Design Overview
+</details>
+
+<details>
+  <summary>XD Lesson - Mobile & Desktop: Button Design</summary>
+  
+## XD Lesson - Mobile & Desktop: Button Design
+</details>
+
+<details>
+  <summary>XD Lesson - Mobile & Desktop: Input Design</summary>
+  
+## XD Lesson - Mobile & Desktop: Input Design
+</details>
+
+<details>
+  <summary>Mobile & Desktop Filter Search Bar Design Overview</summary>
+  
+## Mobile & Desktop Filter Search Bar Design Overview
+</details>
+
+<details>
+  <summary>Adobe XD Lesson - Mobile & Desktop: Filter Design</summary>
+  
+## MAdobe XD Lesson - Mobile & Desktop: Filter Design
+</details>
+
+<details>
+  <summary>Adobe XD Lesson - Mobile & Desktop: Search Design</summary>
+  
+## Adobe XD Lesson - Mobile & Desktop: Search Design
+</details>
+
+<details>
+  <summary>UI Kit Overview</summary>
+  
+## UI Kit Overview
+</details>
+
+<details>
+  <summary>Adobe XD Lesson - Desktop and Mobile: UI Kit</summary>
+  
+## Adobe XD Lesson - Desktop and Mobile: UI Kit
+</details>
+
+<details>
+  <summary>Microinteractions Overview</summary>
+  
+## Microinteractions Overview
 </details>
 
 
+## Adobe XD Lesson - Desktop and Mobile: UI Kit
+</details>
+
+<details>
+  <summary>Adobe XD lesson - Microinteractions</summary>
+  
+## Adobe XD lesson - Microinteractions
+</details>
 ## 6: OPTIMIZATION
 In this section, you’re going to learn about optimization. Once you’ve designed a website or mobile app, you want to track the metrics so you can find areas to improve. You’ll also learn how to create a UX/UI usability report that will provide value to your potential clients.
 
